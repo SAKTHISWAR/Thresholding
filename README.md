@@ -25,6 +25,9 @@ Dilate the image using cv2.dilate().
 
 ## Program
 
+### Developed By : SAKTHISWAR S
+### Ref No :212222230127
+
 ```python
 
 # Load the necessary packages
